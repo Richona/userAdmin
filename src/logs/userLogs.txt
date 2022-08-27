@@ -1,0 +1,201 @@
+
+esta la ruta!!
+esta la ruta!!
+esta la ruta!!
+esta la ruta!!
+esta la ruta!!
+esta la ruta!!
+esta la ruta!!
+esta la ruta!!
+esta la ruta!!
+esta la ruta!!req.paramsreq.params
+esta la ruta!!
+esta la ruta!!
+esta la ruta!!
+esta la ruta!!
+esta la ruta!!
+El usuario ingresó a la ruta: [object Object]
+El usuario ingresó a la ruta: [object Object]
+El usuario ingresó a la ruta: [object Object]
+El usuario ingresó a la ruta: [object Object]
+El usuario ingresó a la ruta: [object Object]
+El usuario ingresó a la ruta: [object Object]
+El usuario ingresó a la ruta: [object Object]
+El usuario ingresó a la ruta: [object Object]
+El usuario ingresó a la ruta: [object Object]
+El usuario ingresó a la ruta: [object Object]
+El usuario ingresó a la ruta: [object Object]
+El usuario ingresó a la ruta: /contact
+El usuario ingresó a la ruta: /contact
+El usuario ingresó a la ruta: /
+El usuario ingresó a la ruta: /about
+El usuario ingresó a la ruta: /services
+El usuario ingresó a la ruta: /contact
+El usuario ingresó a la ruta: /
+El usuario ingresó a la ruta: /about
+El usuario ingresó a la ruta: /services
+El usuario ingresó a la ruta: /about
+El usuario ingresó a la ruta: /contact
+El usuario ingresó a la ruta: /contact
+El usuario ingresó a la ruta: /
+El usuario ingresó a la ruta: /about
+El usuario ingresó a la ruta: /services
+El usuario ingresó a la ruta: /contact
+El usuario ingresó a la ruta: /
+El usuario ingresó a la ruta: /services
+El usuario ingresó a la ruta: /services
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin/:user
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin/user
+El usuario ingresó a la ruta: /admin/user
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin/
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin/user
+El usuario ingresó a la ruta: /admin/user
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin/user
+El usuario ingresó a la ruta: /admin/user
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin/
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin/
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /admin
+El usuario ingresó a la ruta: /login
+El usuario ingresó a la ruta: /login
